@@ -1,4 +1,4 @@
 test
 ====
 
-Test project to see how things work
+Test project to see how things work.
